@@ -7,9 +7,9 @@ void bubbleSort(int ary[],int n){
         for(int j=0;j<n-1-i;j++)
         {
             if(ary[j]>ary[j+1])
-                swap(ary[j],ary[j+1]);
+                swap(ary[j],ary[j+1]);// hi
         }
-    }
+    }// hlo
 }
 int main(){
    
